@@ -1,0 +1,15 @@
+C:\Users\valen\Desktop\myCSharp\bin\Debug\net7.0\myCSharp.exe
+C:\Users\valen\Desktop\myCSharp\bin\Debug\net7.0\myCSharp.deps.json
+C:\Users\valen\Desktop\myCSharp\bin\Debug\net7.0\myCSharp.runtimeconfig.json
+C:\Users\valen\Desktop\myCSharp\bin\Debug\net7.0\myCSharp.dll
+C:\Users\valen\Desktop\myCSharp\bin\Debug\net7.0\myCSharp.pdb
+C:\Users\valen\Desktop\myCSharp\obj\Debug\net7.0\myCSharp.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\myCSharp\obj\Debug\net7.0\myCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\myCSharp\obj\Debug\net7.0\myCSharp.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\myCSharp\obj\Debug\net7.0\myCSharp.AssemblyInfo.cs
+C:\Users\valen\Desktop\myCSharp\obj\Debug\net7.0\myCSharp.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\myCSharp\obj\Debug\net7.0\myCSharp.dll
+C:\Users\valen\Desktop\myCSharp\obj\Debug\net7.0\refint\myCSharp.dll
+C:\Users\valen\Desktop\myCSharp\obj\Debug\net7.0\myCSharp.pdb
+C:\Users\valen\Desktop\myCSharp\obj\Debug\net7.0\myCSharp.genruntimeconfig.cache
+C:\Users\valen\Desktop\myCSharp\obj\Debug\net7.0\ref\myCSharp.dll
