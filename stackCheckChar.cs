@@ -7,22 +7,22 @@ class stackCheckChar
 {
     static bool CheckBrackets(string expression)
     {
-        Stack<char> stack = new Stack<char>();
+        Stack<char> stack = new Stack<char>();     //  Stack<char> store braces.
         char[] openingBrackets = { '(', '[', '{' };
         char[] closingBrackets = { ')', ']', '}' };
 
         foreach (char c in expression)
         {
-            if (Array.IndexOf(openingBrackets, c) != -1)
+            if (Array.IndexOf(openingBrackets, c) != -1) // Array.IndexOf() to find the index of the character in the arrays. 
             {
-                stack.Push(c);
+                stack.Push(c);    //Push() and Pop() methods of the stack to add and remove elements from the stack respectively.
             }
-            else if (Array.IndexOf(closingBrackets, c) != -1)
+            else if (Array.IndexOf(closingBrackets, c) != -1)  
             {
                 if (stack.Count == 0)
                     return false;
 
-                char top = stack.Pop();
+                char top = stack.Pop(); 
                 if ((top == '(' && c != ')') || (top == '[' && c != ']') || (top == '{' && c != '}'))
                     return false;
             }
